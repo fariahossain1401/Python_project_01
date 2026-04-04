@@ -1,7 +1,12 @@
 [
     {
         "amount": 200.0,
-        "category": "home",
-        "date": "23.06.2026"
+        "category": "Bills",
+        "date": "25.09.26"
+    },
+    {
+        "amount": 1000.0,
+        "category": "Electricity",
+        "date": "22.06.26"
     }
 ]
